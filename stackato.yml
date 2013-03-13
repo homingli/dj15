@@ -1,0 +1,6 @@
+name: dj15
+framework: python
+mem: 64M
+env:
+  DJANGO_SETTINGS_MODULE: dj15.settings 
+  PYTHONPATH: dj15
